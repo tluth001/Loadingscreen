@@ -1,4 +1,4 @@
-# dayz-loadingscreen
+# Loadingscreen
 ![Offline](https://img.shields.io/badge/Version-1.4202108-green)
 
 This mod was developed for The Playground Servers. All content is provided under the Arma and Dayz Public License Share Alike ([ADPL-SA](https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa)) License.
